@@ -10,6 +10,7 @@ To solve this problem, I implemented and compared the effectiveness of four mach
 - **K-Nearest Neighbors (KNN)**: Using proximity to predict outcomes based on similar past cases.
 - **Support Vector Machine (SVM)**: A robust classifier for managing complex patterns.
 - **Gradient Boosting**: Building predictive power with iterative improvements.
+  
 Each model was carefully tuned and evaluated to see how well it could differentiate between those who survived and those who didn't, highlighting the unique strengths and limitations of each approach.
 
 ### 🚀 Key Insights & Takeaways
